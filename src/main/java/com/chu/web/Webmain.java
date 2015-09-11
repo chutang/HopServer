@@ -5,7 +5,7 @@ public class Webmain {
 		
 		long times=10;
 		new TimeUtil(times);
-		JettyService test = new JettyService(true,times);
+		JettyService test = new JettyService(false,times);
 		test.startJettyService();
 		
 	}

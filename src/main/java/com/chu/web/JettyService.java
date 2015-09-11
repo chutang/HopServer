@@ -41,6 +41,7 @@ public class JettyService {
 			CheckUrl.OpenLocal();
 		}
 		Thread.sleep(time);
+		
 		server.stop();
 
 	}

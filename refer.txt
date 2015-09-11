@@ -1,0 +1,33 @@
+webdriver:
+http://selenium.googlecode.com/git/docs/api/java/index.html
+
+
+jetty
+
+mvn clean;mvn package;java -cp target/webdriver-0.0.1-SNAPSHOT.jar test.hw
+
+mvn clean;mvn package;java -jar target/webdriver-with-dependency.jar
+
+
+http://wiki.eclipse.org/Jetty/Tutorial/Embedding_Jetty
+
+http://www.himigame.com/java-servlet/862.html
+
+learn many language 
+
+http://www.runoob.com/servlet/servlet-useful-resources.html
+
+
+
+tools : 
+firebug
+chrome://restclient/content/restclient.html
+
+Eclipse useage
+1. ctrl+shift+r： Open Resource
+
+2 ctrl + o -> outline
+
+3 ctrl +e
+
+4 ctrl +2 , L
