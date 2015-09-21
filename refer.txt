@@ -32,5 +32,8 @@ Eclipse useage
 
 4 ctrl +2 , L
 
-skill 
+skill s
 sed -i "s/PermitRootLogin no/PermitRootLogin yes/g" /etc/ssh/sshd_config ;grep PermitRootLogin /etc/ssh/sshd_config;service sshd restart
+
+git 
+http://git-scm.com/book/zh/v1
