@@ -20,7 +20,7 @@ public class TestThreads {
 			
 			for (int i = 0 ; i < inInfo.length-1; i++){
 				try {
-					Thread.sleep(4000);
+					Thread.sleep(2000);
 					threadMessage(inInfo[i]);
 				} catch (InterruptedException e) {
 					threadMessage("Not done yet");
